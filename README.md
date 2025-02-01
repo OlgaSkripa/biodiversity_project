@@ -1,8 +1,8 @@
 # biodiversity_project
-For this project, we will interpret data from the National Parks Service about endangered species in different parks.
+For this project, we will analyze data from the National Park Service regarding endangered species across various parks.
 
-We will perform some data analysis on the conservation statuses of these species and investigate if there are any patterns or themes to the types of species that become endangered. During this project, we will analyze, clean up, and plot data as well as pose questions and seek to answer them in a meaningful way.
+Our focus will be on exploring the conservation statuses of these species, identifying potential patterns or trends that may explain why certain species become endangered. Throughout the project, we will clean and analyze the data, visualize key insights, and formulate and answer questions in a meaningful way.
 
-Data sources:
+Data Sources:
 
-Both Observations.csv and Species_info.csv was provided by Codecademy.com.
+Both Observations.csv and Species_info.csv were provided by Codecademy.com.
